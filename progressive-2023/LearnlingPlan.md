@@ -207,3 +207,9 @@ https://www.jianshu.com/p/f7d65df08ea3
 #### 招聘Moka
 #### 绩效beisen
 #### 服务总线 ESB
+
+### 语言能力
+#### 英语
+#### 日语
+
+
